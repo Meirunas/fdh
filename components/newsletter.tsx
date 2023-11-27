@@ -2,7 +2,7 @@ export default function Newsletter() {
   return (
     <section>
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
-
+        <h2 className="mb-6">Example of component created (green section):</h2>
         {/* CTA box */}
         <div className="relative bg-green-600 py-10 px-8 md:py-16 md:px-12" data-aos="fade-up">
 
@@ -20,7 +20,6 @@ export default function Newsletter() {
           </div>
 
           <div className="relative flex flex-col lg:flex-row justify-between items-center">
-
             {/* CTA content */}
             <div className="mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left lg:w-1/2">
               <h3 className="h3 text-white mb-2">Stay in the loop</h3>

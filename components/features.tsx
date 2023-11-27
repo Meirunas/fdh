@@ -21,7 +21,7 @@ export default function Features() {
                 <path className="stroke-current text-green-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
               <h4 className="h4 mb-2">Improves quality of the code</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Aligning the code with best practices and coding standards, and mitigating the likelihood of bugs and errors. Enhancing code quality through refactoring involves the identification and resolution of defects.</p>
             </div>
 
             {/* 2nd item */}
@@ -32,7 +32,7 @@ export default function Features() {
                 <path className="stroke-current text-green-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
               <h4 className="h4 mb-2">Work on a project together</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Benefits includes learn from others, get things done faster and ome up with better solutions.</p>
             </div>
 
             {/* 3rd item */}
@@ -46,7 +46,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Frontend and Backend</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Even if you are Frontend Developer important to know backend. It can create well-rounded skillset that will make you more attractive to employers.</p>
             </div>
 
             {/* 4th item */}
@@ -59,7 +59,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Gain new skills</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Coding, coding frameworks, code testing and debugging, network connection,  cross-browser development and responsive design. Also soft skills problem-solving, communication, creativity, organization,  customer service and attention to detail.</p>
             </div>
 
             {/* 5th item */}
@@ -72,7 +72,8 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Frameworks</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">
+                In contemporary front-end web development, JavaScript frameworks play a crucial role by offering developers established tools to construct scalable and interactive web applications.</p>
             </div>
 
             {/* 6th item */}
@@ -85,8 +86,8 @@ export default function Features() {
                   <path className="stroke-current text-green-100" d="M8.86 1.18C3.8 1.988 0 5.6 0 10c0 5 4.9 9 11 9a10.55 10.55 0 003.1-.4L20 21l-.6-5.2a9.125 9.125 0 001.991-2.948" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Develop from designs</h4>
+              <p className="text-lg text-gray-400 text-center">Use professional web designs. These allow you to practice building websites in a realistic workflow</p>
             </div>
 
           </div>
