@@ -11,7 +11,7 @@ export default function Header() {
           {/* Site branding */}
           <div className="shrink-0 mr-4">
             {/* Logo */}
-            <Link href="/" className="block pt-10" aria-label="Cruip">
+            <Link href="/" className="block pt-10" aria-label="FDH">
 
               <Image className="" src={Name} width={100} alt="FDH Logo" />
 
