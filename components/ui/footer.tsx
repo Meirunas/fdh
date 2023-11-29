@@ -21,7 +21,7 @@ export default function Footer() {
                 </Link>
               </div>
               <div className="text-gray-400">“A website without visitors is like a ship lost in the horizon.”
-                – Dr. Christopher Dayagdag</div>
+                &ndash; Dr. Christopher Dayagdag</div> 
             </div>
 
             {/* 2nd, 3rd and 4th blocks */}

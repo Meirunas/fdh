@@ -7,7 +7,7 @@ export default function Features() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Job description can be hard to meet</h2>
-            <p className="text-xl text-gray-400">Let start look into and overcome challenges</p>
+            <p className="text-xl text-gray-400">Let's start look into and overcome challenges</p>
           </div>
 
           {/* Items */}
@@ -87,7 +87,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Develop from designs</h4>
-              <p className="text-lg text-gray-400 text-center">Use professional web designs. These allow you to practice building websites in a realistic workflow</p>
+              <p className="text-lg text-gray-400 text-center">Use professional web designs. These allow you to practice building websites in a realistic workflow.</p>
             </div>
 
           </div>
