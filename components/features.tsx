@@ -14,29 +14,29 @@ export default function Features() {
           <div className="max-w-sm mx-auto grid gap-8 md:grid-cols-2 lg:grid-cols-3 lg:gap-16 items-start md:max-w-2xl lg:max-w-none" data-aos-id-blocks>
 
             {/* 1st item */}
-            <div className="relative flex flex-col items-center" data-aos="fade-up" data-aos-anchor="[data-aos-id-blocks]">
+            <div className="relative flex flex-col items-center text-center" data-aos="fade-up" data-aos-anchor="[data-aos-id-blocks]">
               <svg className="w-16 h-16 mb-4" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <rect className="fill-current text-green-600" width="64" height="64" rx="32" />
                 <path className="stroke-current text-green-100" d="M30 39.313l-4.18 2.197L27 34.628l-5-4.874 6.91-1.004L32 22.49l3.09 6.26L42 29.754l-3 2.924" strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-green-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
-              <h4 className="h4 mb-2">Improves quality of the code</h4>
-              <p className="text-lg text-gray-400 text-center">Aligning the code with best practices and coding standards, and mitigating the likelihood of bugs and errors. Enhancing code quality through refactoring involves the identification and resolution of defects.</p>
+              <h4 className="h4 mb-2">Improve code quality</h4>
+              <p className="text-lg text-gray-400">Aligning the code with best practices and coding standards, and mitigating the likelihood of bugs and errors. Enhancing code quality through refactoring involves the identification and resolution of defects.</p>
             </div>
 
             {/* 2nd item */}
-            <div className="relative flex flex-col items-center" data-aos="fade-up" data-aos-delay="100" data-aos-anchor="[data-aos-id-blocks]">
+            <div className="relative flex flex-col items-center text-center" data-aos="fade-up" data-aos-delay="100" data-aos-anchor="[data-aos-id-blocks]">
               <svg className="w-16 h-16 mb-4" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <circle className="fill-current text-green-600" cx="32" cy="32" r="32" />
                 <path className="stroke-current text-green-100" strokeWidth="2" strokeLinecap="square" d="M21 23h22v18H21z" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-green-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
               <h4 className="h4 mb-2">Work on a project together</h4>
-              <p className="text-lg text-gray-400 text-center">Benefits includes learn from others, get things done faster and ome up with better solutions.</p>
+              <p className="text-lg text-gray-400 ">Benefits includes learn from others, get things done faster and ome up with better solutions.</p>
             </div>
 
             {/* 3rd item */}
-            <div className="relative flex flex-col items-center" data-aos="fade-up" data-aos-delay="200" data-aos-anchor="[data-aos-id-blocks]">
+            <div className="relative flex flex-col items-center text-center" data-aos="fade-up" data-aos-delay="200" data-aos-anchor="[data-aos-id-blocks]">
               <svg className="w-16 h-16 mb-4" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <rect className="fill-current text-green-600" width="64" height="64" rx="32" />
                 <g transform="translate(21 21)" strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd">
@@ -46,11 +46,11 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Frontend and Backend</h4>
-              <p className="text-lg text-gray-400 text-center">Even if you are Frontend Developer important to know backend. It can create well-rounded skillset that will make you more attractive to employers.</p>
+              <p className="text-lg text-gray-400">Even if you are Frontend Developer important to know backend. It can create well-rounded skillset that will make you more attractive to employers.</p>
             </div>
 
             {/* 4th item */}
-            <div className="relative flex flex-col items-center" data-aos="fade-up" data-aos-delay="300" data-aos-anchor="[data-aos-id-blocks]">
+            <div className="relative flex flex-col items-center text-center" data-aos="fade-up" data-aos-delay="300" data-aos-anchor="[data-aos-id-blocks]">
               <svg className="w-16 h-16 mb-4" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <rect className="fill-current text-green-600" width="64" height="64" rx="32" />
                 <g transform="translate(22 21)" strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd">
@@ -59,11 +59,11 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Gain new skills</h4>
-              <p className="text-lg text-gray-400 text-center">Coding, coding frameworks, code testing and debugging, network connection,  cross-browser development and responsive design. Also soft skills problem-solving, communication, creativity, organization,  customer service and attention to detail.</p>
+              <p className="text-lg text-gray-400">Coding, coding frameworks, code testing and debugging, network connection,  cross-browser development and responsive design. Also soft skills problem-solving, communication, creativity, organization,  customer service and attention to detail.</p>
             </div>
 
             {/* 5th item */}
-            <div className="relative flex flex-col items-center" data-aos="fade-up" data-aos-delay="400" data-aos-anchor="[data-aos-id-blocks]">
+            <div className="relative flex flex-col items-center text-center" data-aos="fade-up" data-aos-delay="400" data-aos-anchor="[data-aos-id-blocks]">
               <svg className="w-16 h-16 mb-4" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <rect className="fill-current text-green-600" width="64" height="64" rx="32" />
                 <g strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd">
@@ -72,12 +72,12 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Frameworks</h4>
-              <p className="text-lg text-gray-400 text-center">
+              <p className="text-lg text-gray-400">
                 In contemporary front-end web development, JavaScript frameworks play a crucial role by offering developers established tools to construct scalable and interactive web applications.</p>
             </div>
 
             {/* 6th item */}
-            <div className="relative flex flex-col items-center" data-aos="fade-up" data-aos-delay="500" data-aos-anchor="[data-aos-id-blocks]">
+            <div className="relative flex flex-col items-center text-center" data-aos="fade-up" data-aos-delay="500" data-aos-anchor="[data-aos-id-blocks]">
               <svg className="w-16 h-16 mb-4" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <rect className="fill-current text-green-600" width="64" height="64" rx="32" />
                 <g transform="translate(21 22)" strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd">
@@ -87,7 +87,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Develop from designs</h4>
-              <p className="text-lg text-gray-400 text-center">Use professional web designs. These allow you to practice building websites in a realistic workflow.</p>
+              <p className="text-lg text-gray-400">Use professional web designs. These allow you to practice building websites in a realistic workflow.</p>
             </div>
 
           </div>

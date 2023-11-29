@@ -13,14 +13,14 @@ export default function Banner() {
             <div className="text-slate-500 inline-flex">
               <a
                 className="font-medium hover:underline text-slate-50"
-                href="https://github.com/cruip/open-react-template"
+                href="#"
                 target="_blank"
                 rel="noreferrer"
               >
                 <span className="sm:inline">I am example of popup</span>
               </a>{' '}
               <span className="italic px-1.5">or</span>{' '}
-              <a className="font-medium hover:underline text-emerald-400" href="https://cruip.com/open-pro/" target="_blank" rel="noreferrer">
+              <a className="font-medium hover:underline text-emerald-400" href="#" target="_blank" rel="noreferrer">
                 /
               </a>
             </div>

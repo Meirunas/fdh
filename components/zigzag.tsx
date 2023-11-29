@@ -14,7 +14,7 @@ export default function Zigzag() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">Reach goals that matter</div>
             <h1 className="h2 mb-4">Paths</h1>
-            <p className="text-xl text-gray-400">The front-end programmer uses HTML, CSS, and TypeScript to create a user-friendly interface. Therefore, his work is not only technical but also creative and, of course, closely related to web design. Thanks to front-end programming, everything a user can see on a page is the structure of the site, visual and dynamic solutions. A front-end programmer is a real necessity for anyone who wants to tell about their business or other activities and make connections using an attractive and dynamic website</p>
+            <p className="text-xl text-gray-400">The front-end programmer uses HTML, CSS, and TypeScript to create a user-friendly interface. Therefore, his work is not only technical but also creative and, of course, closely related to web design. Thanks to front-end programming, everything a user can see on a page is the structure of the site, visual and dynamic solutions. A front-end programmer is a real necessity for anyone who wants to tell about their business or other activities and make connections using an attractive and dynamic website.</p>
           </div>
 
           {/* Items */}
