@@ -10,10 +10,10 @@ export default function Footer() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6">
 
           {/* Top area: Blocks */}
-          <div className="grid md:grid-cols-12 gap-8 lg:gap-20 mb-8 md:mb-12 ">
+          <div className="grid md:grid-cols-2 gap-8 lg:gap-20 mb-8 md:mb-12 ">
 
             {/* 1st block */}
-            <div className="md:col-span-4 lg:col-span-5">
+            <div>
               <div className="mb-2">
                 {/* Logo */}
                 <Link href="/" className="inline-block" aria-label="FDH">
@@ -25,7 +25,7 @@ export default function Footer() {
             </div>
 
             {/* 2nd, 3rd and 4th blocks */}
-            <div className="md:col-span-8 lg:col-span-7 grid sm:grid-cols-2 gap-8 lg:justify-items-end sm:justify-items-start">
+            <div className="grid sm:grid-cols-2 gap-8 lg:justify-items-end">
 
               {/* 2nd block */}
               <div className="text-sm">
