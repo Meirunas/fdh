@@ -26,7 +26,7 @@ export default function Hero() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h1 mb-4" data-aos="fade-up">Frontend Dev Hub</h1>
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Helping to land jobs from junior to middleweight roles from tutors who completed Computer Science university courses and experience from industry. Share knowledge, discuss tools, gain new skills, get help/advise on certain questions. All levels welcome from beginner to intermediate. Interactive exercises, pair programming, learn from websites and write code.
-              Main topics are HTML, CSS, SCSS, JS, TS, React.js, TS and Vue.js modern tools. 8 sessions with 40min a month for £20.</p>
+              Main topics are HTML, CSS, SCSS, JS, TS, React.js, TS and Vue.js modern tools. 8 sessions with 40min a month for £40.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
                 <a className="btn text-white bg-green-600 hover:bg-green-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://buy.stripe.com/28oaH22c06Vh7ba8ww">Subscribe</a>
