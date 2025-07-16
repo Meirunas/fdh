@@ -2,7 +2,6 @@ export default function Newsletter() {
   return (
     <section>
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
-        <h2 className="mb-6">Example of component created (green section):</h2>
         {/* CTA box */}
         <div className="relative bg-green-600 py-10 px-8 md:py-16 md:px-12" data-aos="fade-up">
 

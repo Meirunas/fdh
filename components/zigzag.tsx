@@ -30,7 +30,7 @@ export default function Zigzag() {
               <div className="max-w-xl md:max-w-none md:w-full mx-auto" data-aos="fade-right">
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="font-architects-daughter text-xl text-green-600 mb-2">Reach goals that matter</div>
-                  <h3 className="h3 mb-3">Frontend – Beginners</h3>
+                  <h3 className="h3 mb-3">Frontend – Beginner</h3>
                   {/* <p className="text-xl text-gray-400 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> */}
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">

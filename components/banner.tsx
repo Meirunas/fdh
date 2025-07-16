@@ -17,11 +17,11 @@ export default function Banner() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <span className="sm:inline">I am example of popup</span>
+                <span className="sm:inline">Front end</span>
               </a>{' '}
               <span className="italic px-1.5">or</span>{' '}
               <a className="font-medium hover:underline text-emerald-400" href="#" target="_blank" rel="noreferrer">
-                /
+                Front-end
               </a>
             </div>
             <button className="text-slate-500 hover:text-slate-400 pl-2 ml-3 border-l border-gray-700" onClick={() => setBannerOpen(false)}>
